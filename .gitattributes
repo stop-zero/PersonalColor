@@ -1,2 +1,5 @@
 color-dataset.zip filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 8fb1c3a6fb3c697d29e0c2b72c628b8390f3ab2c
